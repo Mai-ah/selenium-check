@@ -7,6 +7,8 @@ http://diabcontrol3.herokuapp.com
 admin
 doctor_a@example.com
 doctor_b@example.com
+patient_a@example.com
+patient_b@example.com
 
 ## password 
 admin123
